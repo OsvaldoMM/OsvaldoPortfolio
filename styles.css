@@ -20,10 +20,20 @@
     padding: 0;
     opacity: 0.1;
 }
+.foto-de-perfil{
+    position: relative;
+   bottom: 700px;
+    right: 250px;
+    width: 200px;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+    opacity: 0.5;
+}
 
 .name{
     position: relative;
-    bottom: 400px;
+    bottom: 200px;
     right: 250px;
     font-family: var(--bs-font-sans-serif);
     font-size: 50px;
@@ -34,21 +44,21 @@
 
 .profession{
     position: relative;
-    bottom: 400px;
-    right: 100px;
+    bottom: 200px;
+ left: 10px;
     font-family: var(--bs-font-sans-serif);
     font-size: 20px;
-    color: rgb(170, 88, 88);
+    color: rgb(170, 72, 72);
     margin: 0;
     padding: 0;
 }
 .bienvenida{
     position: relative;
-    bottom: 650px;
+    bottom: 550px;
     left: 450px;
     font-family: var(--bs-font-sans-serif);
     font-size: 45px;
-    color: rgb(139, 52, 52);
+    color: rgb(140, 52, 52);
     margin: 0;
     padding: 0;
 }
